@@ -1,6 +1,7 @@
 # List Interface
 
-![image](https://github.com/user-attachments/assets/9c97ddc9-0c2c-4a70-b56f-9421c925f52c)
+![List Collection Image](https://github.com/user-attachments/assets/fc00565f-1cde-4660-ab7d-2d85eceab3b1)
+
 <p align="center">
 <a href="https://data-flair.training/blogs/collection-framework-in-java/">Hierarchy of Collection Framework in Java </a>
 </p>
