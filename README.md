@@ -13,4 +13,8 @@
 
 ---
 _Bootcamp disponível em [Digital Innovation One(DIO)](https://www.dio.me/bootcamp)_
-##### Dúvidas e Suporte: _[LinkedIn Peterson](https://www.linkedin.com/in/petersonphc/)_
+### Dúvidas e Suporte
+
+_Para ter acesso ao repositório original dos desafios e de módulo completo do curso acesse: [collections-java-api-2023](https://github.com/cami-la/collections-java-api-2023/)_
+
+_Para comentários ou dúvidas [LinkedIn Peterson](https://www.linkedin.com/in/petersonphc/)_
