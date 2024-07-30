@@ -12,6 +12,7 @@
    - _[Map](https://github.com/PetersonPHC/Bootcamp_Desenvolvimento_Java_com_IA/tree/main/Conhecendo%20collections%20com%20Java/Map)_
 3. **Ganhando Produtividade com Stream API e Java**
 4. **Criando um Banco Digital com Java e Orientação a Objetos**
+5. **Criando uma API RESTful com Spring Web**
   
 ---
 _Bootcamp disponível em [Digital Innovation One Bootcamps](https://www.dio.me/bootcamp)_
